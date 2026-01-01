@@ -110,7 +110,7 @@ These problems explore how exponents and logarithms interact.
 
 ## Part E: Exploratory Questions (6 problems)
 
-No calculations required "+ think it through.
+No calculations required just think it through.
 
 **37.** If $x^y = x^z$, what must be true about $y$ and $z$? When is this not the case?
 
