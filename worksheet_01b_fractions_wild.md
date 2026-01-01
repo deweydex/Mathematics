@@ -91,8 +91,8 @@ Let's use a concrete example: **Medical Testing**
 
 $$P(\text{Disease} | \text{Positive}) = \dfrac{P(\text{Positive} | \text{Disease}) \times P(\text{Disease})}{P(\text{Positive})}$$
 
-- (a) If the disease is very rare (small $P(\text{Disease})$), what happens to the numerator?
-- (b) If the test has many false positives (high $P(\text{Positive} | \text{NoDisease})$), what happens to $P(\text{Positive})$ in the denominator?
+- (a) If the disease is very rare (small $P(\text{Disease})$ ), what happens to the numerator?
+- (b) If the test has many false positives (high $P(\text{Positive} | \text{NoDisease})$ ), what happens to $P(\text{Positive})$ in the denominator?
 - (c) Combining (a) and (b): even with a positive test, why might the probability of actually having a rare disease still be low?
 
 ---
