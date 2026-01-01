@@ -23,7 +23,7 @@ In Einstein's special relativity, several important quantities involve the same 
 
 ### The Lorentz Factor
 
-\[\gamma = \dfrac{1}{\sqrt{1 - \dfrac{v^2}{c^2}}} \]
+$$\gamma = \dfrac{1}{\sqrt{1 - \dfrac{v^2}{c^2}}} $$
 
 Here:
 - $v$ = speed of an object
